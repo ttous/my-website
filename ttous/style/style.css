@@ -1,0 +1,49 @@
+/*---------- body ----------*/
+.content {
+     max-width: 800px;
+}
+
+/*---------- header ----------*/
+.navbar {
+     box-shadow: 0 5px 2px -2px gray;
+}
+.navbar-brand {
+     font-size: xx-large;
+}
+
+/*---------- footer ----------*/
+footer {
+     border-top: solid 1px #6E6E6E;
+     background-color: #EBEBEB;
+}
+
+.fa {
+     color: #A3A3A3;
+}
+
+.social:hover {
+     -webkit-transform: scale(1.1);
+     -moz-transform: scale(1.1);
+     -o-transform: scale(1.1);
+ }
+ .social {
+     -webkit-transform: scale(0.8);
+     -moz-transform: scale(0.8);
+     -o-transform: scale(0.8);
+     -webkit-transition-duration: 0.5s;
+     -moz-transition-duration: 0.5s;
+     -o-transition-duration: 0.5s;
+ }
+ 
+ #logo-linkedin:hover {
+     color: #287BBF;
+ }
+ #logo-github:hover {
+     color: #000000;
+ }
+ #social-gp:hover {
+     color: #d34836;
+ }
+ #logo-email:hover {
+     color: #F7CE16;
+ }
