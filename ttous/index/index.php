@@ -1,3 +1,5 @@
+<?php session_start() ?>
+
 <!DOCTYPE html>
 
 <html lang="en-GB">
@@ -9,7 +11,7 @@
             <h1>Welcome to my website !</h1>
             <p class="text-center">I created this website to train myself in
             WAMP programming. The navigation links on the top of the page are
-            the Practicle Works I made with the openclassrooms course about
+            the Practicle Works I made with the <em>Openclassrooms</em> course about
             making websites with PHP.<br />
             You can find this course by clicking
             <a href="https://openclassrooms.com/courses/concevez-votre-site-web-avec-php-et-mysql">
