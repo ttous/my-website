@@ -1,4 +1,8 @@
 <header>
+
+<!-- Font Awesome icons -->
+<script src="https://use.fontawesome.com/e87a343a18.js"></script>
+
     <nav class="navbar navbar-inverse">
         <div class="container-fluid">
 
@@ -21,9 +25,10 @@
                 </ul>
 
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="../account/sign_up.php">Sign up</a></li>
-                    <li><a href="../account/log_in.php"><span class="glyphicon glyphicon-log-in"></span> Log in</a></li>
-                    <li><a href="../account/account.php"><span class="glyphicon glyphicon-user"></span> Your account</a></li>
+                    <li><a href="../account/sign_up.php"><i class="fa fa-user-plus"></i> Sign up</a></li>
+                    <li><a href="../account/log_in.php"><i class="fa fa-sign-in"></i> Log in</a></li>
+                    <li><a href="../account/account.php"><i class="fa fa-user-circle-o"></i> Your account</a></li>
+                    <li><a href="../account/log_out.php"><i class="fa fa-sign-out"></i> Log out</a></li>
                 </ul>
 
             </div>   
